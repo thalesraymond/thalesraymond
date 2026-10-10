@@ -2,6 +2,8 @@
 
 **Software Engineer & Tech Lead** based in São Paulo, Brazil 🇧🇷
 
+My journey into tech started as a kid with my first PC, fascinated by how much I could explore, understand, and control. That curiosity eventually led me to software engineering. Today, 10+ years into my career, I'm a Tech Lead at Itaú Unibanco, helping build and deliver a banking app used by millions of customers.
+
 I work at the intersection of software engineering, technical leadership, and developer experience. Currently, I lead a multidisciplinary mobile engineering team, focusing on release management, automation, and improving how we build and deliver software.
 
 I'm particularly interested in **software architecture, distributed systems, and engineering practices** that make complex systems easier to understand, maintain, and evolve.
