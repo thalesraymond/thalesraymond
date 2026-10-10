@@ -55,5 +55,3 @@ Games like *Kenshi*, *RimWorld*, *Cities: Skylines*, and *Starsector* reflect wh
 I'm also a Linux enthusiast who enjoys tinkering with development environments, experimenting with tools, and figuring out how things work under the hood.
 
 ---
-
-*Always learning, always building — sometimes just to see what happens when systems interact.*
